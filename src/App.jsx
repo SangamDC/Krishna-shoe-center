@@ -40,8 +40,8 @@ const DEFAULT_PRODUCTS = [
 ];
 
 const DEFAULT_SETTINGS = {
-  phone: "9800000000",
-  address: "New Road, Kathmandu, Nepal",
+  phone: "9848021921",
+  address: "Gharbari tole, Nepalgunj, Lumbini Province 21900",
   since: "2009",
 };
 

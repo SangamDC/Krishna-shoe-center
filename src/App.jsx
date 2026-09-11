@@ -45,7 +45,7 @@ const DEFAULT_SETTINGS = {
   since: "2009",
 };
 
-const OWNER_PIN = "2580";
+const OWNER_PIN = "153200";
 const uid = () => Math.random().toString(36).slice(2, 10);
 
 /* ---------------------------------------------------------
